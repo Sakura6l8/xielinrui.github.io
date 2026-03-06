@@ -1,17 +1,16 @@
 
 
-[![Sakura6l8](https://github.com/Sakura6l8)](https://github.com/Sakura6l8)
+[![LinruiXie6](https://img.shields.io/badge/LinruiXie6-github-blue?logo=github)](https://github.com/LinruiXie6)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+He is currently working as a Network Technology Engineer at Huawei.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: xielinrui6[at]gmail.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.E., Information and Communication Engineering, Northwest University, 2022—2025.\
+B.E., Electronic Information Engineering, Shaanxi University of Science & Technology, 2018—2022.
 
 #### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
-
+Multimodal Large Language Models; Intelligent Interactive Systems; Multi-view Clustering; Computer Vision
